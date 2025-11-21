@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+.log
+
+# Build
+dist/
+build/
+storybook-static/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
