@@ -2,17 +2,6 @@
   "parser": "@babel/eslint-parser",
   "parserOptions": {
     "requireConfigFile": false,
-    "babelOptions": {
-      "presets": [
-        [
-          "@babel/preset-env",
-          {
-            "modules": false
-          }
-        ],
-        "@babel/preset-react"
-      ]
-    },
     "ecmaVersion": 2021,
     "sourceType": "module",
     "ecmaFeatures": {
