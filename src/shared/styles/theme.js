@@ -1,4 +1,4 @@
-import { pxToRemValue } from 'src/shared/styles/utils';
+import { pxToRemValue } from '@/shared/styles/utils';
 
 const createDefaultTheme = () => ({
   color: {

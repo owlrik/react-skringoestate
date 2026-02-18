@@ -1,4 +1,4 @@
-import { GlobalStyle } from 'src/shared/styles/GlobalStyles';
+import { GlobalStyle } from '@/shared/styles/GlobalStyles';
 
 import AppLayout from '@/app/layout/AppLayout';
 

@@ -1,10 +1,10 @@
 import { createGlobalStyle } from 'styled-components';
 import { normalize } from 'styled-normalize';
 
-import PrimaryFontWoff2 from 'src/shared/assets/fonts/Poppins-Regular.woff2';
-import PrimaryFontWoff from 'src/shared/assets/fonts/Poppins-Regular.woff';
-import SecondaryFontWoff2 from 'src/shared/assets/fonts/VenusRising-Regular.woff2';
-import SecondaryFontWoff from 'src/shared/assets/fonts/VenusRising-Regular.woff';
+import PrimaryFontWoff2 from '@/shared/assets/fonts/Poppins-Regular.woff2';
+import PrimaryFontWoff from '@/shared/assets/fonts/Poppins-Regular.woff';
+import SecondaryFontWoff2 from '@/shared/assets/fonts/VenusRising-Regular.woff2';
+import SecondaryFontWoff from '@/shared/assets/fonts/VenusRising-Regular.woff';
 
 const GlobalStyle = createGlobalStyle`
   ${normalize};
